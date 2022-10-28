@@ -4,3 +4,4 @@ Another line is getting added in divgit
 New line added by Git Dev
 Edit1
 Edit 2
+Edit 3
