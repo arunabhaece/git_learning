@@ -2,4 +2,4 @@ This file is created in dev branch
 Another line added here - New Word - New Word2
 Master branch new line
 New line in dev branch
-New Line added by master here
+New Line added by master here changed in dev
